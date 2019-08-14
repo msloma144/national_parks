@@ -10,7 +10,7 @@ To run the project, run the dash_app.py file with Plotly 4.0 installed.
 
 Example:
 
-![](https://github.com/msloma144/national_parks/blob/master/example.PNG?raw=true)
+![Example Image](https://github.com/msloma144/national_parks/blob/master/example.PNG?raw=true)
 
 ## Author
 Michael Sloma
