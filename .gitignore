@@ -1,0 +1,7 @@
+# Pycharm
+.idea/
+PLOTS*
+NPS*
+sources.md
+./data/sources.md
+__pycache__
