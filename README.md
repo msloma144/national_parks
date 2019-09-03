@@ -17,3 +17,5 @@ Michael Sloma
 
 ## Data Sources
 * [IRMA NPS](https://irma.nps.gov/)
+
+**Note:** sometimes IPython notebooks on GitHub don't work as expected, but you can always view them using [nbviewer](https://nbviewer.jupyter.org/).
